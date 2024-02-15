@@ -1,0 +1,1 @@
+## Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers
