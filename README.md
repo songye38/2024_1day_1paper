@@ -2,6 +2,9 @@
 
 
 #### 24.02.15 : Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers
+- 링크 : https://arxiv.org/abs/2401.11605
+
+
 #### 24.02.16 :
 #### 24.02.17 :
 #### 24.02.18 :
